@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://i.gifer.com/c20.gif"  />
+### <img align="left" height="150" src="https://i.gifer.com/c20.gif"  />
 
 ###
 
@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Azhar-Mohammad/Azhar-Mohammad/output/snake.svg" alt="Snake animation" />
+### <img src="https://raw.githubusercontent.com/Azhar-Mohammad/Azhar-Mohammad/output/snake.svg" alt="Snake animation" />
 
 ###
