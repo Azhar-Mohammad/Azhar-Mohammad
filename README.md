@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 <h3 align="center">Hi 👋! My name is Azhar and I'm a Computer Science Student from Hyderabad</h3>
 
 ###
