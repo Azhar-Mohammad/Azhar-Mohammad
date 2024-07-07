@@ -1,6 +1,6 @@
-![Header](./github-header-image.png)
-
-<h3 align="center">Hi 👋! My name is Azhar and I'm a Computer Science Student from Hyderabad</h3>
+<div align="center">
+  <img src="./github-header-image.png" alt="Header" style="width:80%;">
+</div>
 
 ###
 
