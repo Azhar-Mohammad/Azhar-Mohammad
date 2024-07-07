@@ -55,8 +55,6 @@
 
 ###
 
-<br clear="both">
 
-### <img src="https://raw.githubusercontent.com/Azhar-Mohammad/Azhar-Mohammad/output/snake.svg" alt="Snake animation" />
 
 ###
